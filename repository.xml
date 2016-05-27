@@ -1,0 +1,143 @@
+<Collections xmlns="http://www.evolus.vn/Namespace/Pencil" xmlns:p="http://www.evolus.vn/Namespace/Pencil">
+    <metadata>
+        <updated></updated>
+    </metadata>
+
+    <collection>
+        <id>Evolus.AndroidICSHIFI</id>
+        <displayName>Mobile - Android ICS</displayName>
+        <description>Hi-Fi version of the Android ICS UI elements</description>
+        <author>Evolus Pencil Team</author>
+        <website>http://pencil.evolus.vn/Stencils-Templates.html</website>
+        <version>1.0</version>
+        <updated>2016-05-26T06:31:21.197Z</updated>
+        <license>GPL</license>
+        <url>http://evoluspencil.googlecode.com/files/Android.GUI_v2.zip</url>
+        <thumbnail>http://pencil.evolus.vn/images/stencils/android4.png</thumbnail>
+        <icon></icon>
+    </collection>
+    <collection>
+        <id>extJSKitchenSink</id>
+        <displayName>Ext JS Neptune</displayName>
+        <description>Elements for creating Ext JS mockup</description>
+        <author>Evolus Pencil Team</author>
+        <website>http://pencil.evolus.vn/Stencils-Templates.html</website>
+        <version>1.0</version>
+        <updated>2016-05-26T06:31:21.197Z</updated>
+        <license>GPL</license>
+        <url>https://googledrive.com/host/0B3r4pjcouweYYnF6MXNFNFo2Q00/ExtJSKitchenSink-Neptune-v0.9.zip</url>
+        <thumbnail>http://pencil.evolus.vn/images/stencils/extjs-neptune.png</thumbnail>
+        <icon></icon>
+    </collection>
+    <collection>
+        <id>Evolus.iOS</id>
+        <displayName>Mobile - iOS UI Stencils</displayName>
+        <description>Stencils for creating iPhone/iPad GUI</description>
+        <author>Evolus Pencil Team</author>
+        <website>http://www.evolus.vn/pencil/shapes/ios</website>
+        <version>1.0</version>
+        <updated>2016-05-26T06:31:21.197Z</updated>
+        <license>GPL</license>
+        <url>http://evoluspencil.googlecode.com/files/iOS.GUI_v2.zip</url>
+        <thumbnail>http://pencil.evolus.vn/images/stencils/ios-hifi.png</thumbnail>
+        <icon></icon>
+    </collection>
+    <collection>
+        <id>Evolus.iOSWireframe</id>
+        <displayName>Mobile - iOS Wireframe</displayName>
+        <description>Stencils for creating iOS GUI mockups</description>
+        <author>Evolus Pencil Team</author>
+        <website>http://www.evolus.vn/pencil/shapes/ioswireframe</website>
+        <version>1.0</version>
+        <updated>2016-05-26T06:31:21.197Z</updated>
+        <license>GPL</license>
+        <url>http://evoluspencil.googlecode.com/files/iOS-Wireframe_v2.zip</url>
+        <thumbnail>http://pencil.evolus.vn/images/stencils/ios-wireframe.png</thumbnail>
+        <icon></icon>
+    </collection>
+    <collection>
+        <id>calle.bokedal.dojo.Widgets</id>
+        <displayName>Dojo Widgets</displayName>
+        <description>Dojo Widget collection</description>
+        <author>Calle Bokedal (calle.bokedal@gmail.com)</author>
+        <website>http://pencil.evolus.vn/Stencils-Templates.html</website>
+        <version>1.0</version>
+        <updated>2016-05-26T06:31:21.197Z</updated>
+        <license>MIT</license>
+        <url>http://evoluspencil.googlecode.com/files/Dojo.GUI_v6.zip</url>
+        <thumbnail>http://pencil.evolus.vn/images/stencils/dojo.png</thumbnail>
+        <icon></icon>
+    </collection>
+
+
+    <collection>
+        <id>nz.nwatson.Bootstrap</id>
+        <displayName>Bootstrap</displayName>
+        <description>High-fidelity components based on the Bootstrap UI framework.</description>
+        <author>Nathaniel Watson (nwatson.nz)</author>
+        <website>https://github.com/nathanielw/Bootstrap-Pencil-Stencils</website>
+        <version>1.1.0</version>
+        <updated>2016-05-26T06:31:21.197Z</updated>
+        <license>MIT</license>
+        <url>https://github.com/nathanielw/Bootstrap-Pencil-Stencils/releases/download/v1.1.0/bootstrap-pencil-stencils-v1.1.0.zip</url>
+        <thumbnail>http://nathanielw.github.io/pencil-stencils/img/stencils/bootstrap.png</thumbnail>
+        <icon></icon>
+    </collection>
+
+    <collection>
+        <id>nz.nwatson.AndroidLollipop</id>
+        <displayName>Android Lollipop</displayName>
+        <description>A collection of components for designing Android apps that conform to Google's Material Design guidelines.</description>
+        <author>Nathaniel Watson (nwatson.nz)</author>
+        <website>https://github.com/nathanielw/Andriod-Lollipop-Pencil-Stencils</website>
+        <version>1.1.0</version>
+        <updated>2016-05-26T06:31:21.197Z</updated>
+        <license>MIT</license>
+        <url>https://github.com/nathanielw/Android-Lollipop-Pencil-Stencils/archive/v1.1.0.zip</url>
+        <thumbnail>http://nathanielw.github.io/pencil-stencils/img/stencils/lollipop.png</thumbnail>
+        <icon></icon>
+    </collection>
+
+    <collection>
+        <id>nz.nwatson.AndroidLollipop</id>
+        <displayName>Material Icons</displayName>
+        <description>All 800+ of Google's Material Design Icons as a Pencil stencil collection.</description>
+        <author>Nathaniel Watson (nwatson.nz)</author>
+        <website>https://github.com/nathanielw/Material-Icons-for-Pencil</website>
+        <version>2.0.0</version>
+        <updated>2016-05-26T06:31:21.197Z</updated>
+        <license>MIT</license>
+        <url>https://github.com/nathanielw/Material-Icons-for-Pencil/releases/download/v2.0.0/material-icons-for-pencil-v2.0.0.zip</url>
+        <thumbnail>http://nathanielw.github.io/pencil-stencils/img/stencils/material-icons.png</thumbnail>
+        <icon></icon>
+    </collection>
+
+    <collection>
+        <id>nz.nwatson.MaterialIcons</id>
+        <displayName>Twemoji</displayName>
+        <description>All 800+ of Google's Material Design Icons as a Pencil stencil collection.</description>
+        <author>Nathaniel Watson (nwatson.nz)</author>
+        <website>https://github.com/nathanielw/Material-Icons-for-Pencil</website>
+        <version>2.0.0</version>
+        <updated>2016-05-26T06:31:21.197Z</updated>
+        <license>MIT</license>
+        <url>https://github.com/nathanielw/Material-Icons-for-Pencil/releases/download/v2.0.0/material-icons-for-pencil-v2.0.0.zip</url>
+        <thumbnail>http://nathanielw.github.io/pencil-stencils/img/stencils/material-icons.png</thumbnail>
+        <icon></icon>
+    </collection>
+
+    <collection>
+        <id>co.uk.cfisk.BootstrapGlyphicons</id>
+        <displayName>Bootstrap Glyphicons</displayName>
+        <description>Glyph icons from the Bootstrap front-end framework as a Pencil stencil collection</description>
+        <author>Craig Fisk (craigfisk.co.uk)</author>
+        <website>htto://craigfisk.co.uk</website>
+        <version>0.1</version>
+        <updated>2016-05-26T06:31:21.197Z</updated>
+        <license>MIT</license>
+        <url>https://github.com/Craig-Fisk/BootstrapGlyph-Pencil-Stencil/archive/0.1.zip</url>
+        <thumbnail></thumbnail>
+        <icon></icon>
+    </collection>
+
+</Collections>
