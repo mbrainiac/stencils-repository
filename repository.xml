@@ -99,7 +99,7 @@
     </collection>
 
     <collection>
-        <id>nz.nwatson.AndroidLollipop</id>
+        <id>nz.nwatson.MaterialIcons</id>
         <displayName>Material Icons</displayName>
         <description>All 800+ of Google's Material Design Icons as a Pencil stencil collection.</description>
         <author>Nathaniel Watson (nwatson.nz)</author>
@@ -113,16 +113,16 @@
     </collection>
 
     <collection>
-        <id>nz.nwatson.MaterialIcons</id>
+        <id>nz.nwatson.Twemoji</id>
         <displayName>Twemoji</displayName>
-        <description>All 800+ of Google's Material Design Icons as a Pencil stencil collection.</description>
+        <description>Twitter's emoji as a Pencil stencil collection, ready to drag-and-drop into your mockups.</description>
         <author>Nathaniel Watson (nwatson.nz)</author>
-        <website>https://github.com/nathanielw/Material-Icons-for-Pencil</website>
-        <version>2.0.0</version>
+        <website>https://github.com/nathanielw/Twemoji-for-Pencil</website>
+        <version>1.1.0</version>
         <updated>2016-05-26T06:31:21.197Z</updated>
         <license>MIT</license>
-        <url>https://github.com/nathanielw/Material-Icons-for-Pencil/releases/download/v2.0.0/material-icons-for-pencil-v2.0.0.zip</url>
-        <thumbnail>http://nathanielw.github.io/pencil-stencils/img/stencils/material-icons.png</thumbnail>
+        <url>https://github.com/nathanielw/Twemoji-for-Pencil/releases/download/v1.1.0/twemoji-for-pencil-v1.1.0.zip</url>
+        <thumbnail>http://nathanielw.github.io/pencil-stencils/img/stencils/twemoji.png</thumbnail>
         <icon></icon>
     </collection>
 
