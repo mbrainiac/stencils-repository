@@ -144,7 +144,7 @@
         <displayName>Gnome 3 UI</displayName>
         <description>Basic set of stencils for creating Gnome3 UI mockups</description>
         <author>Dương Thành An</author>
-        <website></website>
+        <website>https://github.com/dgthanhan/stencils</website>
         <version>1.0</version>
         <updated>2017-03-26T00:00:00.000Z</updated>
         <license>MIT</license>
