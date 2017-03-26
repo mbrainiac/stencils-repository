@@ -131,7 +131,7 @@
         <displayName>Bootstrap Glyphicons</displayName>
         <description>Glyph icons from the Bootstrap front-end framework as a Pencil stencil collection</description>
         <author>Craig Fisk (craigfisk.co.uk)</author>
-        <website>htto://craigfisk.co.uk</website>
+        <website>http://craigfisk.co.uk</website>
         <version>0.1</version>
         <updated>2016-05-26T06:31:21.197Z</updated>
         <license>MIT</license>
@@ -139,5 +139,17 @@
         <thumbnail></thumbnail>
         <icon></icon>
     </collection>
-
+    <collection>
+        <id>vn.evolus.stencils.gnome3ui</id>
+        <displayName>Gnome 3 UI</displayName>
+        <description>Basic set of stencils for creating Gnome3 UI mockups</description>
+        <author>Dương Thành An</author>
+        <website>https://github.com/dgthanhan/stencils</website>
+        <version>1.0</version>
+        <updated>2017-03-26T00:00:00.000Z</updated>
+        <license>MIT</license>
+        <url>https://github.com/dgthanhan/stencils/releases/download/v1.0.0/Gnome3UI-1.0.zip</url>
+        <thumbnail>https://raw.githubusercontent.com/dgthanhan/stencils/master/Gnome3UI/thumbs.png</thumbnail>
+        <icon></icon>
+    </collection>
 </Collections>
