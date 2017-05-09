@@ -163,7 +163,7 @@
         <updated>2017-05-09T00:00:00.000Z</updated>
         <license>MIT</license>
         <url>https://github.com/dgthanhan/stencils/releases/download/SB-1.0-WF/StencilBuilder-1.0.zip</url>
-        <thumbnail>https://github.com/dgthanhan/stencils/blob/SB-1.0-WF/StencilBuilder/layout_image.png</thumbnail>
+        <thumbnail>https://raw.githubusercontent.com/dgthanhan/stencils/SB-1.0-WF/StencilBuilder/layout_image.png</thumbnail>
         <icon></icon>
     </Collection>
     <Collection required-version="3.0.2">
