@@ -140,8 +140,8 @@
         <icon></icon>
     </collection>
     <collection>
-        <id>vn.evolus.stencils.gnome3ui</id>
-        <displayName>Gnome 3 UI</displayName>
+        <id>Evolus.UI.Gnome3</id>
+        <displayName>Gnome 3 Widgets</displayName>
         <description>Basic set of stencils for creating Gnome3 UI mockups</description>
         <author>Dương Thành An</author>
         <website>https://github.com/dgthanhan/stencils</website>
