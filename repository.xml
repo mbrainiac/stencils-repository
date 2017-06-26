@@ -192,4 +192,17 @@
         <thumbnail>https://raw.githubusercontent.com/dgthanhan/stencils/a0c970800bd837af0ca8da462e63f54e87726f00/CommunityMaterialIconsResourceBundle/preview.png</thumbnail>
         <icon></icon>
     </Collection>
+    <Collection required-version="3.0.3">
+        <id>dgthanhan.AndroidNougatWireframe</id>
+        <displayName>Mobile Material Mockup</displayName>
+        <description>Stencils for creating mobile mockups using Material Design guideline and style.</description>
+        <author>Dương Thành An</author>
+        <website>https://pencil.evolus.vn/</website>
+        <version>1.0</version>
+        <updated>2017-06-26T00:00:00.000Z</updated>
+        <license>MIT</license>
+        <url>https://github.com/dgthanhan/stencils/releases/download/MMM09/MobileMaterialMockup-0.9.zip</url>
+        <thumbnail>https://raw.githubusercontent.com/dgthanhan/stencils/09735966d674dda533f70e02cdb163d250e09dbe/MobileMaterialMockup/preview.png</thumbnail>
+        <icon></icon>
+    </Collection>
 </Collections>
