@@ -205,4 +205,17 @@
         <thumbnail>https://raw.githubusercontent.com/dgthanhan/stencils/09735966d674dda533f70e02cdb163d250e09dbe/MobileMaterialMockup/preview.png</thumbnail>
         <icon></icon>
     </Collection>
+    <Collection required-version="3.0.4">
+        <id>evolus.QCTools</id>
+        <displayName>Evolus QC Tools</displayName>
+        <description>Small collection for Android bug reporting.</description>
+        <author>Dương Thành An</author>
+        <website>https://pencil.evolus.vn/</website>
+        <version>0.9</version>
+        <updated>2017-07-06T00:00:00.000Z</updated>
+        <license>MIT</license>
+        <url>https://github.com/dgthanhan/stencils/blob/master/QCTools/QCTools-0.9.zip</url>
+        <thumbnail>https://raw.githubusercontent.com/dgthanhan/stencils/master/QCTools/layout_image.png</thumbnail>
+        <icon></icon>
+    </Collection>
 </Collections>
