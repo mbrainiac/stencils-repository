@@ -208,14 +208,14 @@
     <Collection required-version="3.0.4">
         <id>evolus.QCTools</id>
         <displayName>Evolus QC Tools</displayName>
-        <description>Small collection for Android bug reporting.</description>
+        <description>Small collection for bug reporting.</description>
         <author>Dương Thành An</author>
         <website>https://pencil.evolus.vn/</website>
-        <version>0.9</version>
-        <updated>2017-07-06T00:00:00.000Z</updated>
+        <version>1.0</version>
+        <updated>2017-07-13T00:00:00.000Z</updated>
         <license>MIT</license>
-        <url>https://github.com/dgthanhan/stencils/raw/master/QCTools/QCTools-0.9.zip</url>
-        <thumbnail>https://raw.githubusercontent.com/dgthanhan/stencils/master/QCTools/layout_image.png</thumbnail>
+        <url>https://github.com/dgthanhan/stencils/releases/download/QCTools-1.0/QCTools-1.0.zip</url>
+        <thumbnail>https://raw.githubusercontent.com/dgthanhan/stencils/f24d027a2080e76ebf98d5a1787a67e65a5a117f/QCTools/layout_image.png</thumbnail>
         <icon></icon>
     </Collection>
 </Collections>
