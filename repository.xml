@@ -159,10 +159,10 @@
         <description>Collection of elemenets use to build stencils</description>
         <author>Dương Thành An</author>
         <website>https://github.com/dgthanhan/stencils/tree/master/StencilBuilder</website>
-        <version>1.0</version>
-        <updated>2017-05-09T00:00:00.000Z</updated>
+        <version>1.1</version>
+        <updated>2017-07-14T00:00:00.000Z</updated>
         <license>MIT</license>
-        <url>https://github.com/dgthanhan/stencils/releases/download/SB-1.0-WF/StencilBuilder-1.0.zip</url>
+        <url>https://github.com/dgthanhan/stencils/releases/download/SB-1.1/StencilBuilder-1.1.zip</url>
         <thumbnail>https://raw.githubusercontent.com/dgthanhan/stencils/SB-1.0-WF/StencilBuilder/layout_image.png</thumbnail>
         <icon></icon>
     </Collection>
