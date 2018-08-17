@@ -206,6 +206,19 @@
         <icon></icon>
     </Collection>
     <Collection required-version="3.0.4">
+        <id>dgthanhan.MaterialDesktopMockup</id>
+        <displayName>Desktop Material Mockup</displayName>
+        <description>Stencils for creating desktop mockups using a Material-like style.</description>
+        <author>Dương Thành An</author>
+        <website>https://pencil.evolus.vn/</website>
+        <version>0.9</version>
+        <updated>2018-08-17T00:00:00.000Z</updated>
+        <license>MIT</license>
+        <url>https://github.com/dgthanhan/stencils/releases/download/DMM1.0/DesktopMaterialMockup-1.0.zip</url>
+        <thumbnail>https://raw.githubusercontent.com/dgthanhan/stencils/master/DesktopMaterialMockup/preview.png</thumbnail>
+        <icon></icon>
+    </Collection>
+    <Collection required-version="3.0.4">
         <id>evolus.QCTools</id>
         <displayName>Evolus QC Tools</displayName>
         <description>Small collection for bug reporting.</description>
