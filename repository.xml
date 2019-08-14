@@ -2,7 +2,73 @@
     <metadata>
         <updated></updated>
     </metadata>
-
+<!-- new collections should be added with new syntax using the uppercase "C" in tag name and an indication of minimal Pencil version required -->
+    <Collection required-version="3.0.2">
+        <id>dgthanhan.GenericWireframe</id>
+        <displayName>Generic Wireframe</displayName>
+        <description>Shapes to make wireframe UIs</description>
+        <author>Dương Thành An</author>
+        <website>https://github.com/dgthanhan/stencils</website>
+        <version>1.0</version>
+        <updated>2017-05-09T00:00:00.000Z</updated>
+        <license>MIT</license>
+        <url>https://github.com/dgthanhan/stencils/releases/download/SB-1.0-WF/GenericWireframe-1.0.zip</url>
+        <thumbnail>https://raw.githubusercontent.com/dgthanhan/stencils/a0c970800bd837af0ca8da462e63f54e87726f00/GenericWireframe/thumb.png</thumbnail>
+        <icon></icon>
+    </Collection>
+    <Collection required-version="3.0.4">
+        <id>dgthanhan.MaterialDesktopMockup</id>
+        <displayName>Desktop Material Mockup</displayName>
+        <description>Stencils for creating desktop mockups using a Material-like style.</description>
+        <author>Dương Thành An</author>
+        <website>https://pencil.evolus.vn/</website>
+        <version>1.0.2</version>
+        <updated>2019-08-14T00:00:00.000Z</updated>
+        <license>MIT</license>
+        <url>https://github.com/dgthanhan/stencils/releases/download/DMM1.0.2/DesktopMaterialMockup-1.0.2.zip</url>
+        <thumbnail>https://raw.githubusercontent.com/dgthanhan/stencils/master/DesktopMaterialMockup/preview.png</thumbnail>
+        <icon></icon>
+    </Collection>
+    <Collection required-version="3.0.2">
+        <id>icons.CommunityMaterialIcons</id>
+        <displayName>Community Material Vector Icons</displayName>
+        <description>Material icon resource bundle contributed by community developers and designers</description>
+        <author>Contributors</author>
+        <website>https://materialdesignicons.com/</website>
+        <version>1.0</version>
+        <updated>2017-05-09T00:00:00.000Z</updated>
+        <license>OFL-1.1</license>
+        <url>https://github.com/dgthanhan/stencils/releases/download/SB-1.0-WF/CommunityMaterialIconsResourceBundle-1.0.zip</url>
+        <thumbnail>https://raw.githubusercontent.com/dgthanhan/stencils/a0c970800bd837af0ca8da462e63f54e87726f00/CommunityMaterialIconsResourceBundle/preview.png</thumbnail>
+        <icon></icon>
+    </Collection>
+    <Collection required-version="3.0.4">
+        <id>dgthanhan.AndroidNougatWireframe</id>
+        <displayName>Mobile Material Mockup</displayName>
+        <description>Stencils for creating mobile mockups using Material Design guideline and style.</description>
+        <author>Dương Thành An</author>
+        <website>https://pencil.evolus.vn/</website>
+        <version>0.9</version>
+        <updated>2017-06-27T00:00:00.000Z</updated>
+        <license>MIT</license>
+        <url>https://github.com/dgthanhan/stencils/releases/download/MMM091/MobileMaterialMockup-0.9.1.zip</url>
+        <thumbnail>https://raw.githubusercontent.com/dgthanhan/stencils/09735966d674dda533f70e02cdb163d250e09dbe/MobileMaterialMockup/preview.png</thumbnail>
+        <icon></icon>
+    </Collection>
+    <Collection required-version="3.0.2">
+        <id>Evolus.UI.StencilBuilder</id>
+        <displayName>Stencil Builder Shapes</displayName>
+        <description>Collection of elemenets use to build stencils</description>
+        <author>Dương Thành An</author>
+        <website>https://github.com/dgthanhan/stencils/tree/master/StencilBuilder</website>
+        <version>1.1</version>
+        <updated>2017-07-14T00:00:00.000Z</updated>
+        <license>MIT</license>
+        <url>https://github.com/dgthanhan/stencils/releases/download/SB-1.1/StencilBuilder-1.1.zip</url>
+        <thumbnail>https://raw.githubusercontent.com/dgthanhan/stencils/SB-1.0-WF/StencilBuilder/layout_image.png</thumbnail>
+        <icon></icon>
+    </Collection>
+    <!-- Old collections -->
     <collection>
         <id>Evolus.AndroidICSHIFI</id>
         <displayName>Mobile - Android ICS</displayName>
@@ -152,72 +218,6 @@
         <thumbnail>https://raw.githubusercontent.com/dgthanhan/stencils/master/Gnome3UI/thumbs.png</thumbnail>
         <icon></icon>
     </collection>
-    <!-- new collections should be added with new syntax using the uppercase "C" in tag name and an indication of minimal Pencil version required -->
-    <Collection required-version="3.0.2">
-        <id>Evolus.UI.StencilBuilder</id>
-        <displayName>Stencil Builder Shapes</displayName>
-        <description>Collection of elemenets use to build stencils</description>
-        <author>Dương Thành An</author>
-        <website>https://github.com/dgthanhan/stencils/tree/master/StencilBuilder</website>
-        <version>1.1</version>
-        <updated>2017-07-14T00:00:00.000Z</updated>
-        <license>MIT</license>
-        <url>https://github.com/dgthanhan/stencils/releases/download/SB-1.1/StencilBuilder-1.1.zip</url>
-        <thumbnail>https://raw.githubusercontent.com/dgthanhan/stencils/SB-1.0-WF/StencilBuilder/layout_image.png</thumbnail>
-        <icon></icon>
-    </Collection>
-    <Collection required-version="3.0.2">
-        <id>dgthanhan.GenericWireframe</id>
-        <displayName>Generic Wireframe</displayName>
-        <description>Shapes to make wireframe UIs</description>
-        <author>Dương Thành An</author>
-        <website>https://github.com/dgthanhan/stencils</website>
-        <version>1.0</version>
-        <updated>2017-05-09T00:00:00.000Z</updated>
-        <license>MIT</license>
-        <url>https://github.com/dgthanhan/stencils/releases/download/SB-1.0-WF/GenericWireframe-1.0.zip</url>
-        <thumbnail>https://raw.githubusercontent.com/dgthanhan/stencils/a0c970800bd837af0ca8da462e63f54e87726f00/GenericWireframe/thumb.png</thumbnail>
-        <icon></icon>
-    </Collection>
-    <Collection required-version="3.0.2">
-        <id>icons.CommunityMaterialIcons</id>
-        <displayName>Community Material Vector Icons</displayName>
-        <description>Material icon resource bundle contributed by community developers and designers</description>
-        <author>Contributors</author>
-        <website>https://materialdesignicons.com/</website>
-        <version>1.0</version>
-        <updated>2017-05-09T00:00:00.000Z</updated>
-        <license>OFL-1.1</license>
-        <url>https://github.com/dgthanhan/stencils/releases/download/SB-1.0-WF/CommunityMaterialIconsResourceBundle-1.0.zip</url>
-        <thumbnail>https://raw.githubusercontent.com/dgthanhan/stencils/a0c970800bd837af0ca8da462e63f54e87726f00/CommunityMaterialIconsResourceBundle/preview.png</thumbnail>
-        <icon></icon>
-    </Collection>
-    <Collection required-version="3.0.4">
-        <id>dgthanhan.AndroidNougatWireframe</id>
-        <displayName>Mobile Material Mockup</displayName>
-        <description>Stencils for creating mobile mockups using Material Design guideline and style.</description>
-        <author>Dương Thành An</author>
-        <website>https://pencil.evolus.vn/</website>
-        <version>0.9</version>
-        <updated>2017-06-27T00:00:00.000Z</updated>
-        <license>MIT</license>
-        <url>https://github.com/dgthanhan/stencils/releases/download/MMM091/MobileMaterialMockup-0.9.1.zip</url>
-        <thumbnail>https://raw.githubusercontent.com/dgthanhan/stencils/09735966d674dda533f70e02cdb163d250e09dbe/MobileMaterialMockup/preview.png</thumbnail>
-        <icon></icon>
-    </Collection>
-    <Collection required-version="3.0.4">
-        <id>dgthanhan.MaterialDesktopMockup</id>
-        <displayName>Desktop Material Mockup</displayName>
-        <description>Stencils for creating desktop mockups using a Material-like style.</description>
-        <author>Dương Thành An</author>
-        <website>https://pencil.evolus.vn/</website>
-        <version>0.9</version>
-        <updated>2018-08-17T00:00:00.000Z</updated>
-        <license>MIT</license>
-        <url>https://github.com/dgthanhan/stencils/releases/download/DMM1.0/DesktopMaterialMockup-1.0.1.zip</url>
-        <thumbnail>https://raw.githubusercontent.com/dgthanhan/stencils/master/DesktopMaterialMockup/preview.png</thumbnail>
-        <icon></icon>
-    </Collection>
     <Collection required-version="3.0.4">
         <id>evolus.QCTools</id>
         <displayName>Evolus QC Tools</displayName>
