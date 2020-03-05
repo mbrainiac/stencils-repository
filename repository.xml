@@ -214,8 +214,8 @@
         <version>1.0</version>
         <updated>2017-03-26T00:00:00.000Z</updated>
         <license>MIT</license>
-        <url>https://github.com/dgthanhan/stencils/releases/download/v1.0.0/Gnome3UI-1.0.zip</url>
-        <thumbnail>https://raw.githubusercontent.com/dgthanhan/stencils/master/Gnome3UI/thumbs.png</thumbnail>
+        <url>https://github.com/albfan/stencils/releases/download/GNOME3-1.1/Gnome3UI-1.1.zip</url>
+        <thumbnail>https://raw.githubusercontent.com/albfan/stencils/gnome-3/Gnome3UI/thumbs.png</thumbnail>
         <icon></icon>
     </collection>
     <Collection required-version="3.0.4">
